@@ -32,6 +32,7 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 ### 🌐 Latest Applications 
 
 [![Support System](https://github.com/FurkanCodes/supsys/)]
+> Text that is a quote
 [![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)]
 [![A Marketplace Application](https://github.com/FurkanCodes/marketplace/)]
 [![A Reddit Bot](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
