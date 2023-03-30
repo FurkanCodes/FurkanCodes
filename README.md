@@ -39,16 +39,16 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 [[Support System](https://github.com/FurkanCodes/supsys/)] [DEMO](https://supsys.onrender.com/#/)
 > Built with React, Node, Express, MongoDB and Tailwind
 
-[![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)] [DEMO](https://gitinder.vercel.app/)
+[[Github Profile Finder](https://github.com/FurkanCodes/githubFinder)] [DEMO](https://gitinder.vercel.app/)
 > Built with React, Tailwind, Redux and Github API. It supports different themes!
 
-[![A Marketplace Application](https://github.com/FurkanCodes/marketplace/)] [DEMO](https://mrktplc.onrender.com/)
+[[A Marketplace Application](https://github.com/FurkanCodes/marketplace/)] [DEMO](https://mrktplc.onrender.com/)
 > Built with React, Tailwind and Firebase as the backend
 > 
-[![A Reddit Bot](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
+[[A Reddit Bot](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
 > Built with TypeScript but it is still in early stages
 
-[![Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)] [DEMO](https://backendphonebook.onrender.com/)
+[[Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)] [DEMO](https://backendphonebook.onrender.com/)
 > Built with Nodejs, Express and basic CSS, this was a task i made for Helsinki University
 > 
 - 🔭 I’m currently working on **Lost Ark Daily Tracker** and  [**Full Stack Open by University of Helsinki**](https://github.com/FurkanCodes/fullstackopen)
