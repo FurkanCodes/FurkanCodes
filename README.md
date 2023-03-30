@@ -50,7 +50,12 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 [![Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)] [DEMO](https://backendphonebook.onrender.com/)
 > Built with Nodejs, Express and basic CSS, this was a task i made for Helsinki University
+> 
+- 🔭 I’m currently working on **Lost Ark Daily Tracker**
 
+- 🌱 I’m currently learning **Redux, Redis and Cypress**
+
+- ⚡ Fun fact **I am an audio engineer.**
 
 <details>
  <summary><h3>Applications I made at the very beginning</h3></summary>
