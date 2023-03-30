@@ -7,6 +7,8 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 <details>
  <summary><h3>👨‍💻 My Coding Journey and Information about me</h3></summary>
    I had always been a child who had enourmous interest in technology, but I started to shift my focus on coding while I was still a master's student at Hacettepe University. I was mesmerized by the complicated nature of coding and problem solving. Therefore I have started my coding journey with free resources on the internet such as The Odin Project. After I have completed %80 of the Odin Project, I immediately started build applications. Meanwhile, I have grown a lot of interest in Linux and Virtual Machines. I have started to use Linux as my main OS and using QEMU to access Windows. While I was trying to build my projects, I realized that I was having really hard time grasping concepts, thus I started Full Stack Open by Helsinki University and currently I am half way there to finish it
+  </summary>
+ </details>
  
 ### 🧰 Languages and Tools
 
