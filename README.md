@@ -24,10 +24,19 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 #
 
+### 🌐 Latest Applications 
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Support System](https://github.com/FurkanCodes/supsys/)]
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkancodes&show_icons=true&theme=gruvbox)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkancodes&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=FurkanCodes&theme=gruvbox&border_radius=4.5) -->
 
