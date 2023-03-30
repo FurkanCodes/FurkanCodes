@@ -37,16 +37,25 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 ### 🌐 Latest Applications 
 
 [![Support System](https://github.com/FurkanCodes/supsys/)]
-> Built by React, Node, Express, MongoDB and Tailwind
+> Built with React, Node, Express, MongoDB and Tailwind
 
 [![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)]
-> Built by React, Tailwind and Github API
+> Built with React, Tailwind and Github API
 
 [![A Marketplace Application](https://github.com/FurkanCodes/marketplace/)]
-> Built by React, Tailwind and Firebase as the backend
+> Built with React, Tailwind and Firebase as the backend
 > 
 [![A Reddit Bot](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
-> Built by TypeScript but it is still in early stages
+> Built with TypeScript but it is still in early stages
+
+[![Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)]
+> Built with Nodejs, Express and basic CSS, this was a task i made for Helsinki University
+
+
+<details>
+ <summary><h3>Applications I made at the very beginning</h3></summary>
+  </summary>
+ </details>
 
 
 
