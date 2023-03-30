@@ -40,7 +40,7 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 > Built with React, Node, Express, MongoDB and Tailwind
 
 [![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)] [DEMO](https://gitinder.vercel.app/)
-> Built with React, Tailwind and Github API. It supports different themes!
+> Built with React, Tailwind, Redux and Github API. It supports different themes!
 
 [![A Marketplace Application](https://github.com/FurkanCodes/marketplace/)] [DEMO](https://mrktplc.onrender.com/)
 > Built with React, Tailwind and Firebase as the backend
