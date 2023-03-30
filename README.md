@@ -54,11 +54,9 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 <details>
  <summary><h3>Applications I made at the very beginning</h3></summary>
- [Drumkit](https://github.com/FurkanCodes/drumkit)]
-> Built with JS, Html and CSS -> I learned Dom manipulation
 
 [![Todo List](https://github.com/FurkanCodes/todolist)]
-> Built with JS
+> Built with JS [DEMO](https://furkancodes.github.io/todolist/)
 
 [![Rock, Paper and Scissors](https://github.com/FurkanCodes/rock-paper-scissors-2)]
 > I learned how to manipulate DOM; How to use innerHTML; Improved upon existing CSS and HTML Knowledge; managed to implement media queries
@@ -68,6 +66,9 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 [![Calculator](https://github.com/FurkanCodes/calculator)]
 > Built with JS [DEMO](https://furkancodes.github.io/calculator/)
+ 
+[![Drumkit](https://github.com/FurkanCodes/drumkit)]
+> Built with JS, Html and CSS -> I learned Dom manipulation
 
   </summary>
  </details>
