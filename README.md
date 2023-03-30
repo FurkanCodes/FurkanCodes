@@ -31,11 +31,10 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 ### 🌐 Latest Applications 
 
-<!-- BEGIN YOUTUBE-CARDS -->
 [![Support System](https://github.com/FurkanCodes/supsys/)]
-<!-- END YOUTUBE-CARDS -->
+[![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)]
+[![A Marketplace Application](https://github.com/FurkanCodes/marketplace/)]
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
