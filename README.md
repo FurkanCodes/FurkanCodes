@@ -36,7 +36,7 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 ### 🌐 Latest Applications 
 
-[![Support System](https://github.com/FurkanCodes/supsys/)] [DEMO](https://supsys.onrender.com/#/)
+[[Support System](https://github.com/FurkanCodes/supsys/)] [DEMO](https://supsys.onrender.com/#/)
 > Built with React, Node, Express, MongoDB and Tailwind
 
 [![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)] [DEMO](https://gitinder.vercel.app/)
