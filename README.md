@@ -54,6 +54,21 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 
 <details>
  <summary><h3>Applications I made at the very beginning</h3></summary>
+ [![Drumkit](https://github.com/FurkanCodes/drumkit)]
+> Built with JS, Html and CSS -> I learned Dom manipulation
+
+[![Todo List](https://github.com/FurkanCodes/todolist)]
+> Built with JS
+
+[![Rock, Paper and Scissors](https://github.com/FurkanCodes/rock-paper-scissors-2)]
+> I learned how to manipulate DOM; How to use innerHTML; Improved upon existing CSS and HTML Knowledge; managed to implement media queries
+ 
+[![Etch-A-Sketch](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
+> Built with TypeScript but it is still in early stages [DEMO](https://furkancodes.github.io/etch-a-sketch/)
+
+[![Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)]
+> Built with Nodejs, Express and basic CSS, this was a task i made for Helsinki University
+
   </summary>
  </details>
 
