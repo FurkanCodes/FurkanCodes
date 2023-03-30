@@ -32,10 +32,16 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 ### 🌐 Latest Applications 
 
 [![Support System](https://github.com/FurkanCodes/supsys/)]
-> Text that is a quote
+> Built by React, Node, Express, MongoDB and Tailwind
+
 [![Github Profile Finder](https://github.com/FurkanCodes/githubFinder)]
+> Built by React, Tailwind and Github API
+
 [![A Marketplace Application](https://github.com/FurkanCodes/marketplace/)]
+> Built by React, Tailwind and Firebase as the backend
+> 
 [![A Reddit Bot](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
+> Built by TypeScript but it is still in early stages
 
 
 
