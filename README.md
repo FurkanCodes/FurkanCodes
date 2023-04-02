@@ -49,7 +49,7 @@ I'm a junior full-stack developer who shares enourmous interest in technology, w
 [[A Marketplace Application](https://github.com/FurkanCodes/marketplace/)] [DEMO](https://mrktplc.onrender.com/)
 > Built with React, Tailwind and Firebase as the backend
 > 
-[[A Reddit Bot](https://github.com/FurkanCodes/TrueGamingBot/tree/main)]
+[[A Reddit Bot](https://github.com/FurkanCodes/aredditbot)]
 > Built with TypeScript but it is still in early stages
 
 [[Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)] [DEMO](https://backendphonebook.onrender.com/)
