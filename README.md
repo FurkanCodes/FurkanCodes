@@ -2,7 +2,7 @@
 
 **`A Great Curiouser(Developer/Musicmaker/Teacher)`**
 
-I'm a junior full-stack developer who shares enourmous interest in technology, web development, and artificial intelligence. 
+I'm a full-stack developer who shares enourmous interest in technology, web development, and artificial intelligence. 
 ---
 <details>
  <summary><h3>👨‍💻 My Coding Journey and Information about me</h3></summary>
