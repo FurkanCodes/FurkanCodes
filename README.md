@@ -42,7 +42,7 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 > Built with React, Typescriot, FFMEP, WASM, Tailwind (Still Work in Progress!)
 
 [[Rick and Morty Website](https://github.com/FurkanCodes/rick-and-morty-api/tree/main)] [DEMO](https://rick-and-morty-api-mocha-seven.vercel.app/)
-> A website where you can filter Rick and Morty characters based on their location, age etc. Built React + TypeScript + Vite + SASS
+> A website where you can filter Rick and Morty characters based on their location, age etc. Built React + TypeScript + Vite + SASS + Redux
 
 [[A Reddit Bot](https://github.com/FurkanCodes/aredditbot)]
 > Built with TypeScript but it is still in early stages (project stopped because to the changes made to Reddit API)
