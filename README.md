@@ -39,8 +39,11 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 
 
 [[Image/Video Conversion](https://github.com/FurkanCodes/konvertit)] [DEMO](https://konvertit.onrender.com/)
-> Built with React, Typescriot, FFMEP, WASM, Tailwind
->  
+> Built with React, Typescriot, FFMEP, WASM, Tailwind (Still Work in Progress!)
+
+[[A Reddit Bot](https://github.com/FurkanCodes/aredditbot)]
+> Built with TypeScript but it is still in early stages (project stopped because to the changes made to Reddit API)
+
 [[Support System](https://github.com/FurkanCodes/supsys/)] [DEMO](https://supsys.onrender.com/#/)
 > Built with React, Node, Express, MongoDB and Tailwind
 
@@ -53,15 +56,13 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 [[A Marketplace Application](https://github.com/FurkanCodes/marketplace/)] [DEMO](https://mrktplc.onrender.com/)
 > Built with React, Tailwind and Firebase as the backend
 > 
-[[A Reddit Bot](https://github.com/FurkanCodes/aredditbot)]
-> Built with TypeScript but it is still in early stages
 
 [[Phonebook Application](https://github.com/FurkanCodes/phonebook-backend)] [DEMO](https://backendphonebook.onrender.com/)
 > Built with Nodejs, Express and basic CSS, this was a task i made for Helsinki University
 > 
-- 🔭 I’m currently working on **Lost Ark Daily Tracker** and  [**Full Stack Open by University of Helsinki**](https://github.com/FurkanCodes/fullstackopen)
+- 🔭 I’m currently working on **Konvertit**
 
-- 🌱 I’m currently learning **Redux, Redis and Cypress**
+- 🌱 I’m currently learning **Cypress**
 
 - ⚡ Fun fact **I am an audio engineer.**
 
