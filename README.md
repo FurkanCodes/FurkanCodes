@@ -57,6 +57,9 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 [[Github Profile Finder](https://github.com/FurkanCodes/githubFinder)] [DEMO](https://gitinder.vercel.app/)
 > Built with React, Tailwind, Redux and Github API. It supports different themes!
 
+[[Norganizer]([NOT-YET-PUBLIC](https://github.com/FurkanCodes/Node-Based-UI-Organizer))] [DEMO](https://node-based-ui-organizer.vercel.app/)
+> A small application that uses nodes to organize tasks, teams and even personal goals. Built with React, TailwindCSS, HeadlessUI, React Flow, Vite
+
 [[A Marketplace Application](https://github.com/FurkanCodes/marketplace/)] [DEMO](https://mrktplc.onrender.com/)
 > Built with React, Tailwind and Firebase as the backend
 > 
