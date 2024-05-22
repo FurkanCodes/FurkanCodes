@@ -48,7 +48,7 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 > A website where you can filter Rick and Morty characters based on their location, age etc. Built React + TypeScript + Vite + SASS + Redux
 
 
-[[Newponent](https://www.npmjs.com/package/newponent?activeTab=code)] [DEMO](https://www.npmjs.com/package/newponent?activeTab=readme)
+[[SuperComp](https://github.com/FurkanCodes/supercomp)]
 > A command-line utility to quickly generate React component files with a directory structure. Built with NodeJS
 
 [[Patientor](https://github.com/FurkanCodes/patientor)]
