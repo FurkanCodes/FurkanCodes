@@ -36,7 +36,7 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 
 ### 🌐 Latest Applications 
 
-https://github.com/FurkanCodes/vftui
+
 
 [[VFTUI](https://github.com/FurkanCodes/vftui)] [DOCS](https://664d15a977435d5ea22b2866-knggiyyhkp.chromatic.com/)
 > A simple Demo React UI Library created with React, TypeScript, Vite and Storybook
