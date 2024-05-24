@@ -37,6 +37,8 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 ### 🌐 Latest Applications 
 
 
+[[SuperComp](https://github.com/FurkanCodes/supercomp)]
+> A command-line utility to quickly generate React component files with a directory structure. Built with NodeJS
 
 [[VFTUI](https://github.com/FurkanCodes/vftui)] [DOCS](https://664d15a977435d5ea22b2866-knggiyyhkp.chromatic.com/)
 > A simple Demo React UI Library created with React, TypeScript, Vite and Storybook
@@ -48,8 +50,6 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 > A website where you can filter Rick and Morty characters based on their location, age etc. Built React + TypeScript + Vite + SASS + Redux
 
 
-[[SuperComp](https://github.com/FurkanCodes/supercomp)]
-> A command-line utility to quickly generate React component files with a directory structure. Built with NodeJS
 
 [[Patientor](https://github.com/FurkanCodes/patientor)]
 > An app where user can add, edit, look new patients in their hospital records. There is minimal CSS since the whole focus on the project was on TypeScript.
