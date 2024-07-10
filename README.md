@@ -37,6 +37,13 @@ I'm a full-stack developer who shares enourmous interest in technology, web deve
 ### 🌐 Latest Applications 
 
 
+
+[[Findev](https://github.com/FurkanCodes/findev)]
+> A place where other developer can find like minded developers and connect. WIP
+
+[[Suzan-Ten](https://github.com/FurkanCodes/suzan)]
+> A unified interface to send timed messages to users on Discord, Slack and Notion
+
 [[SuperComp](https://github.com/FurkanCodes/supercomp)]
 > A command-line utility to quickly generate React component files with a directory structure. Built with NodeJS
 
