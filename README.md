@@ -42,4 +42,14 @@ Software developer in Türkiye. I build native apps and small tools, usually bec
   <a href="https://github.com/FurkanCodes/LeafNative">
     <img src="https://raw.githubusercontent.com/FurkanCodes/LeafNative/main/docs/leaf-native-preview.jpg" alt="Leaf Native" width="720">
   </a>
+  <br>
+  <sub>Leaf Native</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FurkanCodes/detour">
+    <img src="https://raw.githubusercontent.com/FurkanCodes/detour/main/docs/screenshot.png" alt="Detour" width="560">
+  </a>
+  <br>
+  <sub>Detour</sub>
 </p>
