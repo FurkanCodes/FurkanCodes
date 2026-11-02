@@ -14,6 +14,12 @@ Software developer in Türkiye. I build native apps and small tools, usually bec
 | **[Detour](https://github.com/FurkanCodes/detour)** | Gets sites your ISP blocks loading again in one click. No VPN, no server, no account. | ![Release](https://img.shields.io/github/v/release/FurkanCodes/detour?style=flat-square&color=ff8a3d&label=release) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white) |
 | **[Lamphaus](https://github.com/FurkanCodes/lamphaus)** | One Android app with separate phone and TV interfaces. What you were watching follows you between screens. | ![Updated](https://img.shields.io/github/last-commit/FurkanCodes/lamphaus?style=flat-square&color=7c5cff&label=updated) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 
+## Developer tools
+
+| Project | What it does | Details |
+|---|---|---|
+| **[nvim-coach](https://github.com/FurkanCodes/nvim-coach)** | An always-on cheat sheet that teaches you Neovim while you use it. The shortcuts change with what you're doing. | ![Updated](https://img.shields.io/github/last-commit/FurkanCodes/nvim-coach?style=flat-square&color=57a773&label=updated) ![Neovim](https://img.shields.io/badge/Neovim-0.10%2B-57A143?style=flat-square&logo=neovim&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+
 ## Path of Exile 2 tools
 
 | Project | What it does | Details |
@@ -35,6 +41,7 @@ Software developer in Türkiye. I build native apps and small tools, usually bec
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 <br>
 
