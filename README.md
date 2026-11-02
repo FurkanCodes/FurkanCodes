@@ -11,7 +11,7 @@
 
 <br>
 
-## Apps
+## Desktop apps
 
 <table>
   <tr>
@@ -24,6 +24,14 @@
       <img src="https://img.shields.io/github/v/release/FurkanCodes/LeafNative?style=flat-square&color=57a773&label=release" alt="Release">
     </td>
     <td width="33%" valign="top">
+      <a href="https://github.com/FurkanCodes/Sotto"><img src="assets/sotto.jpg" alt="Sotto" width="100%"></a>
+      <h3><a href="https://github.com/FurkanCodes/Sotto">Sotto</a></h3>
+      Offline voice dictation for macOS. Hold a key, speak, let go: the text appears where you type. Nothing leaves your Mac.
+      <br><br>
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+      <img src="https://img.shields.io/github/v/release/FurkanCodes/Sotto?style=flat-square&color=0a84ff&label=release" alt="Release">
+    </td>
+    <td width="33%" valign="top">
       <a href="https://github.com/FurkanCodes/detour"><img src="https://raw.githubusercontent.com/FurkanCodes/detour/main/docs/screenshot.png" alt="Detour" width="100%"></a>
       <h3><a href="https://github.com/FurkanCodes/detour">Detour</a></h3>
       Gets sites your ISP blocks loading again in one click. No VPN, no server, no account.
@@ -31,13 +39,29 @@
       <img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS-0078D4?style=flat-square" alt="Windows and macOS">
       <img src="https://img.shields.io/github/v/release/FurkanCodes/detour?style=flat-square&color=ff8a3d&label=release" alt="Release">
     </td>
-    <td width="33%" valign="top">
+  </tr>
+</table>
+
+## Mobile & web
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/FurkanCodes/lamphaus"><img src="https://raw.githubusercontent.com/FurkanCodes/lamphaus/main/artwork/source/tv_banner_source.png" alt="Lamphaus" width="100%"></a>
       <h3><a href="https://github.com/FurkanCodes/lamphaus">Lamphaus</a></h3>
       One Android app with separate phone and TV interfaces. What you were watching follows you between screens.
       <br><br>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
       <img src="https://img.shields.io/github/last-commit/FurkanCodes/lamphaus?style=flat-square&color=7c5cff&label=updated" alt="Updated">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://skrap-ui.vercel.app"><img src="assets/dealvinci.jpg" alt="Dealvinci" width="100%"></a>
+      <h3><a href="https://skrap-ui.vercel.app">Dealvinci</a></h3>
+      Paste a product link, set a target price, and get a Telegram alert the moment it drops.
+      <br><sub>Code: <a href="https://github.com/FurkanCodes/skrap-ui">frontend</a> · <a href="https://github.com/FurkanCodes/skrap">backend</a></sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/web-live%20demo-2ea44f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Live demo">
+      <img src="https://img.shields.io/badge/Python%20%C2%B7%20TypeScript-3776AB?style=flat-square" alt="Python and TypeScript">
     </td>
   </tr>
 </table>
@@ -84,5 +108,5 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,rust,cs,dotnet,ts,react,nextjs,nodejs,supabase,lua,neovim&perline=12" alt="Swift, Kotlin, Rust, C#, .NET, TypeScript, React, Next.js, Node.js, Supabase, Lua, Neovim">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,rust,cs,dotnet,ts,python,react,nextjs,nodejs,supabase,lua,neovim&perline=13" alt="Swift, Kotlin, Rust, C#, .NET, TypeScript, Python, React, Next.js, Node.js, Supabase, Lua, Neovim">
 </p>
